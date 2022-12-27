@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+<img src="https://github.com/alirezakariminejad/flutter_rock_paper_scisser/blob/master/images/app-screenshot.png?raw=true" width="360" alt="app screenshot"/>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
